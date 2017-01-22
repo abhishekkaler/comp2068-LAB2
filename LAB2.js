@@ -41,3 +41,5 @@ else if (choice1 === "scissors") {
     }
 }
 compare(userChoice,computerChoice);
+
+the changes has been made
